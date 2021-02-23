@@ -4,7 +4,7 @@ This repo is for students to test out their first pull request
 
 Students - click below to see the file you'll need to edit:
 
-Spring 2019
+Fevrier 2021
 Helpful resources
 
 These videos were are a very helpful demo on how GitHub works:
